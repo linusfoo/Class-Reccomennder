@@ -38,3 +38,4 @@ Course Name: Calculus 1.
 Description: Review of functions, exponents and radicals, exponential and logorithm. Examples of functions in business applications. Limits, continuity and derivatives. Differentiation of elementary functions. Antiderivatives. The definite integral. Techniques of Integration. Applications of differentiation and integration including differential equations. Trigonometric functions are not discussed in this course. 
 Average Professor rating: 4.5 
 
+## Basic WebUI:
