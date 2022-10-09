@@ -5,14 +5,13 @@ Using McgGill database for classes from the faculty of Science, we cleaned the d
 
 Google Colab code: https://colab.research.google.com/drive/1qEcACGjaMIVokQiKXQnzX7s9nSfJtByP#scrollTo=CPRHyfgK8gcV
 
-## E.g
-running: reccomend("MATH 133", ["COMP 251", 'COMP 206' , 'COMP 250', 'COMP 251', 'MATH 323', 'COMP 324', 'MATH 240', "MATH 222", "MATH 133"],df)
+## Eample
+reccomend("MATH 133", ["COMP 251", 'COMP 206' , 'COMP 250', 'COMP 251', 'MATH 323', 'COMP 324', 'MATH 240', "MATH 222", "MATH 133"],df)
 returns the following:
 
 Course input : MATH 133
 Course Name Linear Algebra and Geometry.
 Description: Systems of linear equations, matrices, inverses, determinants; geometric vectors in three dimensions, dot product, cross product, lines and planes; introduction to vector spaces, linear dependence and independence, bases. Linear transformations. Eigenvalues and diagonalization.
-
 
 Class #1 : MATH 223  
 Course Name: Linear Algebra. 
